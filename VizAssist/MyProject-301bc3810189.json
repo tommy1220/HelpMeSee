@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-1554191340233",
+  "private_key_id": "301bc38101897a9a7ebe0baeffbc35738007e85f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm+4nG120W6zSa\n+EySXphAKmy0DMJexFf+mqlzSFuEKrZEKskBPwEzMvwPA29EG/07Xx7iaa0ZE4Pm\ncv47JEa12BvQjiqVlrnejM29pCiuYmdKjEx0KuOFCMx0eUEJgQ0EiebLzUR+xSOb\n+/mR4kzoybm1b7ZlzKZSaXVpJDYOURwfzBTuKAkBWtuOuBJjHsfmmmvYnYSHivJ+\nypCxJja5syCiwOpJzWJw3qWNOdWxc23tx+4EiCcAmxhLgVdpPmdq3MBs5XaIyKnD\nKdQvxSZ8rsMa7yHfI+T6dtG/avxlQvZ7zrOI0IWokwenx3d5pUkfuPqpzAcVjLKv\nKoSdmZj9AgMBAAECggEAI8MzmtaAkqwFNDuBisefq/5qEZW5+znp7qmJKRuSHhhX\nuPnA2vd3dlOxEDYYGmo0LgcNQkiHvhsj4LM4J8p5KnECZAROsoL5g+R8G+WQoOiK\nXrj1ltuoptFfmIJvn214MESonXV0+gGWws2QgeIJvsGVeHpYgiz2Yigb8UzEFwSH\nUmysMOSKUykqm/BE/Vp0pLgh7vV0NvENaGNue2/K11sNg8qRv0+FFtu4Kebt8/30\ndkdNRgYfwjlUbRqb/YmYm0+6olxoeW/tLAUPHqGBU9cEMSmAUeUQoK1DLjv6RyhH\nr4DIFntnHhLXdbg8yzsfOwS8qJDftG07G/6S3XDcMQKBgQDdG9jJPgpQmE9xrNbM\nObkhYeNttVRfhVdWMr1T0RYOXInZnYI8JcZOsiqWWZhslgRxfzia1BjHF3kGxmU1\nQVmXPUnhPf0cN3mn5fXsNR3X9odksYbamB084JbvgaFIgGQ4qkAZ+uZSXA3J5hQi\nYff9lB2W5OxiARObEPWz8xWSNwKBgQDBVSZRDt8jlkk/VEtVhpIwkJelg4ZefXkO\nvNNCS2lp0gBCvLnM923KdFjiFfRKVvd6ISictDQHjjYChQ31y95H9DmKAZ6wcbGF\nsfj5WR6EMc+tDeP7x57w85yMdIUK31oOlYGfChgPYMQsdLz9VkYqF8Evumm+hIPl\n6cHbwUhkawKBgEen+aamY4NhCQYHBImk/1lRNvpb9J8MQJSf1vmt3h8DYG1U/Vru\nxwjD9sdI+/vc1k3N9BNBP1JuSfunGi+bISTBaQsFIt0dIWEHRp6pTCWsMI6ydcir\n2XXcNy4hbZpoeZJfomyJAlGYoaNX3BiUdWEJulknkW/ld2wen/IUil4bAoGAcD5g\ndZUdxcp+Ei99YVU00M9Ry71VqMxOGVlVidrAg7hxgE2TzcUlT/JGnFREtVhSa+yO\naJRS1MQi5UmcdkT7c2j+cvpHyIbpmwZd115/Uh6dRQqYf1hBFgFJtV380/gij+8L\nB2vT1jHHE0xfYPHS4KNT/MLMm9jRvwz9CPnpbqsCgYATywPT0wlj4FLwcElDL+j9\nUOy7qIQbB0DlNGWR/FGrNrXELWb2yY0IByTZIzLjurXUXV+Ja6eZq81nRgIDfvdD\nQAuhWDB4IqZEiApvRvDooalWBwwo8vMJGNS6Qq/CNlmYkN+fuw97EOQoaLUDINke\nTdBBNWxRqQ1gLA0350IcUQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vizassist-service-account@my-project-1554191340233.iam.gserviceaccount.com",
+  "client_id": "107475358113050016725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vizassist-service-account%40my-project-1554191340233.iam.gserviceaccount.com"
+}
